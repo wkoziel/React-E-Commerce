@@ -137,7 +137,7 @@ const Filters = () => {
               name='shipping'
               id='shipping'
               onClick={updateFilters}
-              chacked={shipping}
+              checked={shipping}
             />
           </div>
           {/* end of shipping */}
