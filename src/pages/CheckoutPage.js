@@ -9,8 +9,8 @@ const CheckoutPage = () => {
   return (
     <main>
       <PageHero title='checkout' />
-      <Wrapper className='page'>
-        <h1>checkout here</h1>
+      <Wrapper className='page section-center'>
+        <h1>It's demo, so there is no checkout here :(</h1>
       </Wrapper>
     </main>
   )
