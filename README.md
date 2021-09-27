@@ -1,89 +1,50 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Comfy Sloth - E-commerce
+> E-Commerce website of the online store that allows you to view and purchase the offered products <br />
+> Live demo [_here_](https://wkoziel-react-e-commerce.netlify.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
+* [Screenshots](#preview)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Final project of the ReactJS course
+- The website allows you to browse and filter items by multiple categories
+- It supports the logging system which is connected to the cart system
+
+## Preview
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44378819/134941991-b224672b-07ab-4dfc-bc7f-585f0f86a80b.gif)
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
+- **React** - version 17.0.1
+- **React Router** - version 5.2
+- **Styled Components** - version 5.2.1
+- **React Icons** - version 3.11
+- **Axios** - version 8.2
+- **Auth0** - version 1.8
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+To run the project you need to install all dependences form package.json. In order to do this, you need to type this command into your terminal while you're in project folder:
+```
+npm install
+```
+To start the server use:
+```
+npm start
+```
+Your local server is available  at localhost:3000
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
+Project is: _complete_
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+Udemy React Tutorial by [John Smilga](https://www.udemy.com/user/janis-smilga-3/)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@wkoziel](https://github.com/wkoziel/) - feel free to contact me!
