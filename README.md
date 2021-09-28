@@ -14,7 +14,8 @@
 
 ## General Information
 - Final project of the ReactJS course
-- The website allows you to browse and filter items by multiple categories
+- Website imitates e-commerce store
+- It allows you to browse and filter items by multiple categories
 - It supports the logging system which is connected to the cart system
 
 ## Preview
